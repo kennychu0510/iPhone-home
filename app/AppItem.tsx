@@ -10,8 +10,6 @@ type Props = {
   positions: SharedValue<Positions>;
 };
 
-const AnimatedApp = Animated.createAnimatedComponent(TouchableOpacity);
-
 const AppItem = (props: Props) => {
   const { app, positions } = props;
   const position = getPosition(positions.value[app.id]);
