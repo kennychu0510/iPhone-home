@@ -15,7 +15,6 @@ export const Images = {
     APPLE_CLIPS: require('./AppIcons/apple-clips.png'),
     APPLE_IOS_MESSAGE: require('./AppIcons/apple-ios-message.png'),
     APPLE_STOCKS: require('./AppIcons/apple-stocks.png'),
-    APPLE_STORE: require('./AppIcons/apple-store.png'),
     APPLE_SAFARI: require('./AppIcons/apple-safari.png'),
     APPLE_APP_STORE: require('./AppIcons/apple-app-store.png'),
     APPLE_SETTINGS: require('./AppIcons/apple-settings.png'),
