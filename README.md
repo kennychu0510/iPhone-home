@@ -9,3 +9,5 @@ Libraries used:
 
 **Online Demo**
 https://snack.expo.dev/@kennychu0510/iphone-home
+
+<img src="demo.gif" width='200'/>
